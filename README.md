@@ -34,7 +34,7 @@ I enjoy understanding how systems work, breaking complex problems into smaller p
 
 ##  Featured Projects
 
-### 📖 Marvels & Oddities
+###  Marvels & Oddities
 
 A mobile reflection application inspired by *Love from A to Z* that combines secure authentication, PostgreSQL-backed persistence, and daily reflection into a calm journaling experience.
 
