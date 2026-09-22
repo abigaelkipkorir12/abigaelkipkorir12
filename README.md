@@ -44,7 +44,7 @@ A mobile reflection application inspired by *Love from A to Z* that combines sec
 
 ###  Arduino Pulse Oximeter
 
-An embedded systems project that estimates heart rate and blood oxygen saturation using photoplethysmography (PPG), focusing on reliable data acquisition and signal processing.
+An embedded systems project that estimates heart rate and blood oxygen saturation using LEDs and an ambient light sensor, focusing on reliable data acquisition and signal processing.
 
 **Tech:** Arduino • Python • C • Signal Processing
 
@@ -54,8 +54,6 @@ An embedded systems project that estimates heart rate and blood oxygen saturatio
 
 Currently contributing to a reusable retrieval attribution framework at Duke University's Argus Lab focused on automating retrieval attribution research through modular software infrastructure.
 
-> Repository not yet public.
-
 ---
 
 ## Connect
@@ -64,8 +62,7 @@ Currently contributing to a reusable retrieval attribution framework at Duke Uni
 - Email: abigael.kipkorir@duke.edu
 
 
-<!--
-**abigaelkipkorir12/abigaelkipkorir12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
