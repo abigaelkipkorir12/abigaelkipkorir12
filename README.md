@@ -16,7 +16,7 @@ I enjoy understanding how systems work, breaking complex problems into smaller p
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -50,9 +50,9 @@ An embedded systems project that estimates heart rate and blood oxygen saturatio
 
 ---
 
-###  Auto-Query *(Research Project)*
+###  Auto-Query 
 
-Currently contributing to a reusable retrieval attribution framework at Duke University's Argus Lab focused on automating retrieval attribution research through modular software infrastructure.
+Contributed to a reusable retrieval attribution framework at Duke University's Argus Lab focused on automating retrieval attribution research through modular software infrastructure.
 
 ---
 
@@ -64,14 +64,4 @@ Currently contributing to a reusable retrieval attribution framework at Duke Uni
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
